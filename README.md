@@ -1,0 +1,2 @@
+# LocalLibrary
+Practice Django project
